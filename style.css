@@ -6,6 +6,7 @@ body {
 }
 
 .title-page {
+	align-items: center;
 	margin-bottom: 100px;
 	font-size: 60px;
 	font-weight: 900;
